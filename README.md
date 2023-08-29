@@ -1,68 +1,34 @@
-# SwiftUI_Archive
-> SwiftUI 공부 기록 </br>
+# 📝 SwiftUI 공부 기록
 
-<details>
-<summary>  마크업 </summary>
-
- </br>
- 
+### 🎨 마크업 (MarkUp)
  > 2023.05.07 </br>
-* 선 굵기 조절 
-* 투명도 조절
-* ColorPicker
-* 뒤로 가기 / 앞으로 가기 / 전체 삭제 
 
-<img src="https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/408e2234-44d7-4846-bb4f-66786465b50c" width="20%" height="20%">
-</br>
-</details>
+![Simulator Screen Recording - iPhone 14 Pro - 2023-08-29 at 11 38 52](https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/5136d485-038f-4c4b-8657-559f35297bbc)
 
 </br>
 
-<details>
-<summary>  PopOver 커스텀 </summary>
-
- </br>
- 
+### 🍿 Popover 커스텀 (PopOver)
  > 2023.05.14 </br>
-* 팝 오버 뷰 커스터마이징 
-
-<img src="https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/f20ab31d-7508-4e41-a6f2-4bd42b35c5eb" width="20%" height="20%">
+![Simulator Screen Recording - iPhone 14 Pro - 2023-08-29 at 11 41 46](https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/76f15b0b-8fe9-43d4-b0a1-e09c27f23478)
 
 </br>
-</details>
 
-</br>
-<details>
-<summary> 이미지 렌더링 </summary>
-
- </br>
- 
+### 🌠 이미지 렌더링 (ImageRendering)
  > 2023.05.15 </br>
+ > PhotosUI </br>
  
 * ImageRenderer(content: )로 이미지 렌더링 시키기
 * PhotosUI로 사진 불러오기 (ImagePicker())
 * ShareLink 구조체로 데이터 외부로 공유하기
 
-<img src="https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/f798a4ca-0374-4ec0-ace9-b4caf8d79200" width="20%" height="20%"> <img src="https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/cb40bd5e-d94c-464a-97be-9141ca76e5f8" width="20%" height="20%">
-
-</br>
-</details>
+![Simulator Screen Recording - iPhone 14 Pro - 2023-08-29 at 11 44 18](https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/5a07cd7d-44d9-4513-b181-46b55b2a164e)
 
 </br>
 
-<details>
-<summary> MVVM 패턴 </summary>
-
- </br>
- 
+### 🏛️ MVVM 패턴 (MVVM)
  > 2023.05.28 </br>
- 
-* MVVM 패턴 이해하기
-* openweathermap API로 실시간 날씨 정보 가져오기
+ > openweathermap API </br>
 
-<img src="https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/ff387f9d-2155-4179-a254-a7988c0886f3" width="20%" height="20%">
-
-</br>
-</details>
+<img src="https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/47713da0-ad05-489d-b194-9ba46919920a" width="20%" height="20%">
 
 </br>
