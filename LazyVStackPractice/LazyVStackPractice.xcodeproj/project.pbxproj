@@ -7,28 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C1ACB4E32A6455E00034312E /* JSONParsingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1ACB4E22A6455E00034312E /* JSONParsingApp.swift */; };
-		C1ACB4E52A6455E00034312E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1ACB4E42A6455E00034312E /* ContentView.swift */; };
-		C1ACB4E72A6455E10034312E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1ACB4E62A6455E10034312E /* Assets.xcassets */; };
-		C1ACB4EA2A6455E10034312E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1ACB4E92A6455E10034312E /* Preview Assets.xcassets */; };
-		C1ACB4F12A645A2A0034312E /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1ACB4F02A645A2A0034312E /* ViewModel.swift */; };
-		C1ACB4F32A645B050034312E /* json.json in Sources */ = {isa = PBXBuildFile; fileRef = C1ACB4F22A645B050034312E /* json.json */; };
-		C1ACB4F52A645BC40034312E /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1ACB4F42A645BC40034312E /* data.swift */; };
+		C1217EB02A7693A3005C4868 /* LazyVStackPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1217EAF2A7693A3005C4868 /* LazyVStackPracticeApp.swift */; };
+		C1217EB22A7693A3005C4868 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1217EB12A7693A3005C4868 /* ContentView.swift */; };
+		C1217EB42A7693A4005C4868 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1217EB32A7693A4005C4868 /* Assets.xcassets */; };
+		C1217EB72A7693A4005C4868 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1217EB62A7693A4005C4868 /* Preview Assets.xcassets */; };
+		C1217EBE2A76AF27005C4868 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1217EBD2A76AF27005C4868 /* SplashView.swift */; };
+		C1217EC02A76AFE0005C4868 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1217EBF2A76AFE0005C4868 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C1ACB4DF2A6455E00034312E /* JSONParsing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JSONParsing.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C1ACB4E22A6455E00034312E /* JSONParsingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONParsingApp.swift; sourceTree = "<group>"; };
-		C1ACB4E42A6455E00034312E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		C1ACB4E62A6455E10034312E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C1ACB4E92A6455E10034312E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C1ACB4F02A645A2A0034312E /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
-		C1ACB4F22A645B050034312E /* json.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = json.json; sourceTree = "<group>"; };
-		C1ACB4F42A645BC40034312E /* data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
+		C1217EAC2A7693A3005C4868 /* LazyVStackPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LazyVStackPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1217EAF2A7693A3005C4868 /* LazyVStackPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStackPracticeApp.swift; sourceTree = "<group>"; };
+		C1217EB12A7693A3005C4868 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C1217EB32A7693A4005C4868 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C1217EB62A7693A4005C4868 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1217EBD2A76AF27005C4868 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		C1217EBF2A76AFE0005C4868 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		C1ACB4DC2A6455E00034312E /* Frameworks */ = {
+		C1217EA92A7693A3005C4868 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,40 +36,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		C1ACB4D62A6455E00034312E = {
+		C1217EA32A7693A3005C4868 = {
 			isa = PBXGroup;
 			children = (
-				C1ACB4E12A6455E00034312E /* JSONParsing */,
-				C1ACB4E02A6455E00034312E /* Products */,
+				C1217EAE2A7693A3005C4868 /* LazyVStackPractice */,
+				C1217EAD2A7693A3005C4868 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		C1ACB4E02A6455E00034312E /* Products */ = {
+		C1217EAD2A7693A3005C4868 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C1ACB4DF2A6455E00034312E /* JSONParsing.app */,
+				C1217EAC2A7693A3005C4868 /* LazyVStackPractice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C1ACB4E12A6455E00034312E /* JSONParsing */ = {
+		C1217EAE2A7693A3005C4868 /* LazyVStackPractice */ = {
 			isa = PBXGroup;
 			children = (
-				C1ACB4E22A6455E00034312E /* JSONParsingApp.swift */,
-				C1ACB4E42A6455E00034312E /* ContentView.swift */,
-				C1ACB4E62A6455E10034312E /* Assets.xcassets */,
-				C1ACB4E82A6455E10034312E /* Preview Content */,
-				C1ACB4F02A645A2A0034312E /* ViewModel.swift */,
-				C1ACB4F22A645B050034312E /* json.json */,
-				C1ACB4F42A645BC40034312E /* data.swift */,
+				C1217EAF2A7693A3005C4868 /* LazyVStackPracticeApp.swift */,
+				C1217EB12A7693A3005C4868 /* ContentView.swift */,
+				C1217EB32A7693A4005C4868 /* Assets.xcassets */,
+				C1217EB52A7693A4005C4868 /* Preview Content */,
+				C1217EBD2A76AF27005C4868 /* SplashView.swift */,
+				C1217EBF2A76AFE0005C4868 /* MainView.swift */,
 			);
-			path = JSONParsing;
+			path = LazyVStackPractice;
 			sourceTree = "<group>";
 		};
-		C1ACB4E82A6455E10034312E /* Preview Content */ = {
+		C1217EB52A7693A4005C4868 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				C1ACB4E92A6455E10034312E /* Preview Assets.xcassets */,
+				C1217EB62A7693A4005C4868 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -79,39 +76,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C1ACB4DE2A6455E00034312E /* JSONParsing */ = {
+		C1217EAB2A7693A3005C4868 /* LazyVStackPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C1ACB4ED2A6455E10034312E /* Build configuration list for PBXNativeTarget "JSONParsing" */;
+			buildConfigurationList = C1217EBA2A7693A4005C4868 /* Build configuration list for PBXNativeTarget "LazyVStackPractice" */;
 			buildPhases = (
-				C1ACB4DB2A6455E00034312E /* Sources */,
-				C1ACB4DC2A6455E00034312E /* Frameworks */,
-				C1ACB4DD2A6455E00034312E /* Resources */,
+				C1217EA82A7693A3005C4868 /* Sources */,
+				C1217EA92A7693A3005C4868 /* Frameworks */,
+				C1217EAA2A7693A3005C4868 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = JSONParsing;
-			productName = JSONParsing;
-			productReference = C1ACB4DF2A6455E00034312E /* JSONParsing.app */;
+			name = LazyVStackPractice;
+			productName = LazyVStackPractice;
+			productReference = C1217EAC2A7693A3005C4868 /* LazyVStackPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		C1ACB4D72A6455E00034312E /* Project object */ = {
+		C1217EA42A7693A3005C4868 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					C1ACB4DE2A6455E00034312E = {
+					C1217EAB2A7693A3005C4868 = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = C1ACB4DA2A6455E00034312E /* Build configuration list for PBXProject "JSONParsing" */;
+			buildConfigurationList = C1217EA72A7693A3005C4868 /* Build configuration list for PBXProject "LazyVStackPractice" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -119,45 +116,44 @@
 				en,
 				Base,
 			);
-			mainGroup = C1ACB4D62A6455E00034312E;
-			productRefGroup = C1ACB4E02A6455E00034312E /* Products */;
+			mainGroup = C1217EA32A7693A3005C4868;
+			productRefGroup = C1217EAD2A7693A3005C4868 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C1ACB4DE2A6455E00034312E /* JSONParsing */,
+				C1217EAB2A7693A3005C4868 /* LazyVStackPractice */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C1ACB4DD2A6455E00034312E /* Resources */ = {
+		C1217EAA2A7693A3005C4868 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1ACB4EA2A6455E10034312E /* Preview Assets.xcassets in Resources */,
-				C1ACB4E72A6455E10034312E /* Assets.xcassets in Resources */,
+				C1217EB72A7693A4005C4868 /* Preview Assets.xcassets in Resources */,
+				C1217EB42A7693A4005C4868 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		C1ACB4DB2A6455E00034312E /* Sources */ = {
+		C1217EA82A7693A3005C4868 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1ACB4E52A6455E00034312E /* ContentView.swift in Sources */,
-				C1ACB4F12A645A2A0034312E /* ViewModel.swift in Sources */,
-				C1ACB4E32A6455E00034312E /* JSONParsingApp.swift in Sources */,
-				C1ACB4F52A645BC40034312E /* data.swift in Sources */,
-				C1ACB4F32A645B050034312E /* json.json in Sources */,
+				C1217EB22A7693A3005C4868 /* ContentView.swift in Sources */,
+				C1217EC02A76AFE0005C4868 /* MainView.swift in Sources */,
+				C1217EB02A7693A3005C4868 /* LazyVStackPracticeApp.swift in Sources */,
+				C1217EBE2A76AF27005C4868 /* SplashView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		C1ACB4EB2A6455E10034312E /* Debug */ = {
+		C1217EB82A7693A4005C4868 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -217,7 +213,7 @@
 			};
 			name = Debug;
 		};
-		C1ACB4EC2A6455E10034312E /* Release */ = {
+		C1217EB92A7693A4005C4868 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -271,14 +267,14 @@
 			};
 			name = Release;
 		};
-		C1ACB4EE2A6455E10034312E /* Debug */ = {
+		C1217EBB2A7693A4005C4868 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"JSONParsing/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"LazyVStackPractice/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -291,7 +287,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "GYURI-PARK.JSONParsing";
+				PRODUCT_BUNDLE_IDENTIFIER = "GYURI-PARK.LazyVStackPractice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -299,14 +295,14 @@
 			};
 			name = Debug;
 		};
-		C1ACB4EF2A6455E10034312E /* Release */ = {
+		C1217EBC2A7693A4005C4868 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"JSONParsing/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"LazyVStackPractice/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -319,7 +315,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "GYURI-PARK.JSONParsing";
+				PRODUCT_BUNDLE_IDENTIFIER = "GYURI-PARK.LazyVStackPractice";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -330,25 +326,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C1ACB4DA2A6455E00034312E /* Build configuration list for PBXProject "JSONParsing" */ = {
+		C1217EA72A7693A3005C4868 /* Build configuration list for PBXProject "LazyVStackPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C1ACB4EB2A6455E10034312E /* Debug */,
-				C1ACB4EC2A6455E10034312E /* Release */,
+				C1217EB82A7693A4005C4868 /* Debug */,
+				C1217EB92A7693A4005C4868 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C1ACB4ED2A6455E10034312E /* Build configuration list for PBXNativeTarget "JSONParsing" */ = {
+		C1217EBA2A7693A4005C4868 /* Build configuration list for PBXNativeTarget "LazyVStackPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C1ACB4EE2A6455E10034312E /* Debug */,
-				C1ACB4EF2A6455E10034312E /* Release */,
+				C1217EBB2A7693A4005C4868 /* Debug */,
+				C1217EBC2A7693A4005C4868 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = C1ACB4D72A6455E00034312E /* Project object */;
+	rootObject = C1217EA42A7693A3005C4868 /* Project object */;
 }

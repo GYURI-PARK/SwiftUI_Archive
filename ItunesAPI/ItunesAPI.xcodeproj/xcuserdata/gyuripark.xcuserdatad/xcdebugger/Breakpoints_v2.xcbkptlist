@@ -18,6 +18,38 @@
             endingLineNumber = "22"
             landmarkName = "Album"
             landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "D582C2EC-7F79-4DFC-A3BC-0C4341D7DA95 - f4d22aeab2eb986c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ItunesAPI.Album.CodingKeys.init(rawValue: Swift.String) -&gt; Swift.Optional&lt;ItunesAPI.Album.CodingKeys&gt;"
+                  moduleName = "ItunesAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gyuripark/Desktop/ADA/SwiftUI_Archive/ItunesAPI/ItunesAPI/model/Album.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "D582C2EC-7F79-4DFC-A3BC-0C4341D7DA95 - de4d3d3a1de27221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ItunesAPI.Album.CodingKeys.rawValue.getter : Swift.String"
+                  moduleName = "ItunesAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gyuripark/Desktop/ADA/SwiftUI_Archive/ItunesAPI/ItunesAPI/model/Album.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -7,12 +7,6 @@
 
 import SwiftUI
 
-struct Course: Hashable, Codable {
-    let name: String
-    let image: String
-    
-}
-
 struct URLImage: View {
     let urlString: String
     
