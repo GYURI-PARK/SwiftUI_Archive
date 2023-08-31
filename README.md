@@ -2,7 +2,6 @@
 
 ### 🎨 마크업 (MarkUp)
  > 2023.05.07 </br>
-
 ![Simulator Screen Recording - iPhone 14 Pro - 2023-08-29 at 11 38 52](https://github.com/GYURI-PARK/SwiftUI_Archive/assets/93391058/5136d485-038f-4c4b-8657-559f35297bbc)
 
 </br>
